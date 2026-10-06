@@ -1,0 +1,6 @@
+{
+  "name": "PRL Pac-Man: Seguridad y Salud Laboral",
+  "description": "Simulador formativo de Prevención de Riesgos Laborales en planta industrial y logística con mecánicas de Pac-Man, señalización ISO 7010 y retos interactivos de EPIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
